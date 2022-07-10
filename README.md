@@ -1,1 +1,12 @@
 # catchup-react
+- Next.js(TODO)
+- React
+- TypeScript
+- ESLint(TODO)
+- Prettier(TODO)
+- CSS Modules(styled-components)
+- PWA
+- Storybook(TODO)
+- Jest(TODO)
+- Cypress(TODO)
+- GitHub Actions(TODO)
